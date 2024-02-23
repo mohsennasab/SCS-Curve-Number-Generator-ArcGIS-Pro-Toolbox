@@ -1,1 +1,9 @@
-
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Tahmasebi Nasab
+  given-names: Mohsen
+orcid: https://orcid.org/0000-0003-2143-9955
+title: SCS Curve Nomber Generator Toolbox for ArcGIS Pro
+version: v1.0
+date-released: 2024-02-23
