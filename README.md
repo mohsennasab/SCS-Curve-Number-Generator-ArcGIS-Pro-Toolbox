@@ -5,7 +5,7 @@ The SCS Curve Number Generator is an ArcGIS Python toolbox designed to facilitat
 
 [![DOI](https://zenodo.org/badge/762422393.svg)](https://zenodo.org/doi/10.5281/zenodo.10698937)
 
-Citation
+Citation: 
 Mohsen Tahmasebi Nasab. (2024). mohsennasab/SCS-Curve-Number-Generator-ArcGIS-Pro-Toolbox: Curve Number Generator v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.10698938
 
 
