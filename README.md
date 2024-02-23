@@ -2,6 +2,10 @@
 
 The SCS Curve Number Generator is an ArcGIS Python toolbox designed to facilitate hydrological analysis by generating Soil Conservation Service (SCS) Curve Numbers based on land use and soil data. This tool leverages spatial data to output Curve Numbers, aiding in hydrological modeling and analysis.
 
+
+[![DOI](https://zenodo.org/badge/762422393.svg)](https://zenodo.org/doi/10.5281/zenodo.10698937)
+
+
 ## Features
 
 - Generate SCS Curve Numbers from soil and land use shapefiles.
